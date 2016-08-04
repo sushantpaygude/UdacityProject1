@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UdacityProject1</string>
+    <string name="store_name">My Arsenal Store</string>
+    <string name="store_welcome">Welcome Gooners! Show your support to Arsenal by shopping for their 100% authentic merchandise! </string>
+    <string name="store_visit">Visit us at 201, East Street, Pune</string>
+    <string name="store_call">Call us :+919860787878</string>
+</resources>
